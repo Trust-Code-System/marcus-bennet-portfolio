@@ -1,0 +1,11 @@
+node_modules
+dist
+.vercel
+*.local
+.chrome-qa*
+desktop.png
+mobile*.png
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+.gstack/
